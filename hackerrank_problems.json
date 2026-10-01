@@ -1,0 +1,290 @@
+﻿[
+    {
+        "No":  0,
+        "Question":  "Day 0 : Hello, World",
+        "Difficulty":  "Easy",
+        "Subject":  "str",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-hello-world/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_0-Hello_World.md"
+    },
+    {
+        "No":  1,
+        "Question":  "Day 1 : Data Types",
+        "Difficulty":  "Easy",
+        "Subject":  "str, int, float, data types",
+        "HackerRankUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_1_Data_Types.md",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_1_Data_Types.md"
+    },
+    {
+        "No":  2,
+        "Question":  "Day 2 : Operators",
+        "Difficulty":  "Easy",
+        "Subject":  "int, float, variables, arithmetic",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-operators/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_2_Operators.md"
+    },
+    {
+        "No":  3,
+        "Question":  "Day 3 : Intro to Conditional Statements",
+        "Difficulty":  "Easy",
+        "Subject":  "if-elif-else, conditionals, logicals",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-conditional-statements/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_3_Intro_to_Conditional_Statements.md"
+    },
+    {
+        "No":  4,
+        "Question":  "Day 4 : Class vs. Instance",
+        "Difficulty":  "Easy",
+        "Subject":  "class",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-class-vs-instance/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_4_Class_vs_Instance.md"
+    },
+    {
+        "No":  5,
+        "Question":  "Day 5 : Loops",
+        "Difficulty":  "Easy",
+        "Subject":  "for, loops",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-loops/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_5_Loops.md"
+    },
+    {
+        "No":  6,
+        "Question":  "Day 6 : Let\u0027s Review",
+        "Difficulty":  "Easy",
+        "Subject":  "str, manipulations",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-review-loop/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_6_Lets_Review.md"
+    },
+    {
+        "No":  7,
+        "Question":  "Day 7 : Arrays",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, sorting, data structures",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-arrays/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_7_Arrays.md"
+    },
+    {
+        "No":  8,
+        "Question":  "Day 8 : Dictionaries and Maps",
+        "Difficulty":  "Easy",
+        "Subject":  "dict, mapping, hash tables data structures",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_8_Dictionaries_and_Maps.md"
+    },
+    {
+        "No":  9,
+        "Question":  "Say \"Hello, World!\" With Python",
+        "Difficulty":  "Easy",
+        "Subject":  "str",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/py-hello-world/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/001_Say_Hello_World_With_Python.md"
+    },
+    {
+        "No":  10,
+        "Question":  "Python If-Else",
+        "Difficulty":  "Easy",
+        "Subject":  "if-elif-else, conditionals, control flow",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/py-if-else/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/002_Python_If_Else.md"
+    },
+    {
+        "No":  11,
+        "Question":  "Arithmetic Operators",
+        "Difficulty":  "Easy",
+        "Subject":  "math, operators",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-arithmetic-operators/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/003_Arithmetic_Operators.md"
+    },
+    {
+        "No":  12,
+        "Question":  "Division",
+        "Difficulty":  "Easy",
+        "Subject":  "math, operators, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-division/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/004_Division.md"
+    },
+    {
+        "No":  13,
+        "Question":  "Loops",
+        "Difficulty":  "Easy",
+        "Subject":  "loops, for, while",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-loops/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/005_Loops.md"
+    },
+    {
+        "No":  14,
+        "Question":  "Write a function",
+        "Difficulty":  "Medium",
+        "Subject":  "function",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/write-a-function/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/006_Write_a_function.md"
+    },
+    {
+        "No":  15,
+        "Question":  "Print Function",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, loops",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-print",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/007_Print_Function.md"
+    },
+    {
+        "No":  16,
+        "Question":  "List Comprehensions",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, matrix, list comprehension, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/list-comprehensions/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/008_List_Comprehensions.md"
+    },
+    {
+        "No":  17,
+        "Question":  "Find the Runner-Up Score",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, sort, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/009_Find_the_Runner_Up_Score.md"
+    },
+    {
+        "No":  18,
+        "Question":  "Nested Lists",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, nested list, sort, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/nested-list/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/010_Nested_Lists.md"
+    },
+    {
+        "No":  19,
+        "Question":  "Finding The Percentage",
+        "Difficulty":  "Easy",
+        "Subject":  "hashmap, dict, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/finding-the-percentage",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/011_Finding_The_Percentage.md"
+    },
+    {
+        "No":  20,
+        "Question":  "Lists",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-lists",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/012_Lists.md"
+    },
+    {
+        "No":  21,
+        "Question":  "Tuples",
+        "Difficulty":  "Easy",
+        "Subject":  "tuple, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-tuples/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/013_Tuples.md"
+    },
+    {
+        "No":  22,
+        "Question":  "sWAP cASE",
+        "Difficulty":  "Easy",
+        "Subject":  "str, swap",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/swap-case",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/014_sWAP_cASE.md"
+    },
+    {
+        "No":  23,
+        "Question":  "String Split and Join",
+        "Difficulty":  "Easy",
+        "Subject":  "array, list",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-string-split-and-join/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/015_String_Split_and_Join.md"
+    },
+    {
+        "No":  24,
+        "Question":  "What\u0027s Your Name?",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/whats-your-name",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/016_What_s_Your_Name.md"
+    },
+    {
+        "No":  25,
+        "Question":  "Mutations",
+        "Difficulty":  "Easy",
+        "Subject":  "str, manipulations",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-mutations/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/017_Mutations.md"
+    },
+    {
+        "No":  26,
+        "Question":  "Find a string",
+        "Difficulty":  "Easy",
+        "Subject":  "str",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/find-a-string/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/018_Find_a_string.md"
+    },
+    {
+        "No":  27,
+        "Question":  "String Validators",
+        "Difficulty":  "Easy",
+        "Subject":  "str, validation",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/string-validators/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/019_String_Validators.md"
+    },
+    {
+        "No":  28,
+        "Question":  "Text Alignment",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/text-alignment/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/020_Text_Alignment.md"
+    },
+    {
+        "No":  29,
+        "Question":  "Text Wrap",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/text-wrap",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/021_Text_Wrap.md"
+    },
+    {
+        "No":  30,
+        "Question":  "Designer Door Mat",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/designer-door-mat/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/022_Designer_Door_Mat.md"
+    },
+    {
+        "No":  31,
+        "Question":  "String Formatting",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/python-string-formatting/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/022_String_Formatting.md"
+    },
+    {
+        "No":  32,
+        "Question":  "Alphabet_Rangoli",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/alphabet-rangoli/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/023_Alphabet_Rangoli.md"
+    },
+    {
+        "No":  33,
+        "Question":  "Capitalize",
+        "Difficulty":  "Easy",
+        "Subject":  "str, format",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/capitalize/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/024_Capitalize.md"
+    },
+    {
+        "No":  34,
+        "Question":  "The Minion Game",
+        "Difficulty":  "Medium",
+        "Subject":  "str",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/the-minion-game/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/025_The_Minion_Game.md"
+    },
+    {
+        "No":  35,
+        "Question":  "Merge the Tools!",
+        "Difficulty":  "Medium",
+        "Subject":  "str, format, data types",
+        "HackerRankUrl":  "https://www.hackerrank.com/challenges/merge-the-tools/problem",
+        "SolutionUrl":  "https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/027_Merge_the_Tools.md"
+    }
+]
